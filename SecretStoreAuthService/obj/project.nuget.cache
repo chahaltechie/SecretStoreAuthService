@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "8n04XleEnppf+xBAm8rjpY8fViMfG/L68EdXPzogirn1FZVUhkXaIaKpgK0cJA46w+MXMiab4u0va/YUD+kjww==",
+  "success": true,
+  "projectFilePath": "C:\\MyRepos\\SecretStoreAuthService\\SecretStoreAuthService\\SecretStoreAuthService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.6\\microsoft.extensions.configuration.fileextensions.3.1.6.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.6\\microsoft.extensions.configuration.json.3.1.6.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.6\\microsoft.extensions.fileproviders.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.6\\microsoft.extensions.fileproviders.physical.3.1.6.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.6\\microsoft.extensions.filesystemglobbing.3.1.6.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\microsoft.identity.client\\4.25.0\\microsoft.identity.client.4.25.0.nupkg.sha512",
+    "C:\\Users\\rajveer chahal\\.nuget\\packages\\universal.microsoft.extensions.configuration.json\\1.0.0\\universal.microsoft.extensions.configuration.json.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
